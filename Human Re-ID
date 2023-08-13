@@ -1,0 +1,12 @@
+https://paperswithcode.com/sota/person-re-identification-on-msmt17?p=unsupervised-pre-training-for-person-re
+
+1. CLIP-ReID: Exploiting Vision-Language Model for Image Re-Identification without Concrete Text Labels
+    https://github.com/syliz517/clip-reid
+
+*important*: CLIP: Constructive Language-Image Pretraining
+    https://github.com/openai/CLIP
+    https://openai.com/research/clip
+    https://arxiv.org/abs/2103.00020
+
+ViT: Vision Transformer
+    https://huggingface.co/docs/transformers/main/model_doc/vit
